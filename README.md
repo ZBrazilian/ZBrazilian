@@ -4,6 +4,7 @@
 
 ## Sobre Mim
 #### Eu sou o José programo faz pouco tempo, aos poucos pretendo ir me especializando cada vez mais.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/ZBrazilian=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ### Linguagens
 ![JS Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) - Aprendendo
 
