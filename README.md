@@ -5,7 +5,7 @@
 
 ## Linguagens mais ultilizadas.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZBrazilian&layout=compact&theme=dark&hide_border=1&count_private=1&hide_title=1)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZBrazilian&layout=compact&theme=dark&hide_border=1&count_private=1&hide_title=0)
 ## Sobre Mim
 #### Eu sou o José programo faz pouco tempo, aos poucos pretendo ir me especializando cada vez mais.
 
