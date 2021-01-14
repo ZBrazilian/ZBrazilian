@@ -8,7 +8,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZBrazilian&theme=dark&hide_border=1&count_private=1&hide_title=0)
 ## About Me.
-#### Hello, i'm sixteen years old, 
+#### Hello, i'm sixteen years old, i live in Alagoas, Brasil.
+#### My main interest are the tecnologies, Python, JavaScript and PostgreSQL.
+#### In the future, i intend to specialize more and more.
 
 ### Langs.
 ![JS Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) - Learning
