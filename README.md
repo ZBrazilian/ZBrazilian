@@ -5,7 +5,7 @@
 
 ## Linguagens mais ultilizadas.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZBrazilian&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZBrazilian&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZBrazilian&layout=compact&count_private=1)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZBrazilian&layout=compact&theme=dark&hide_border=1&count_private=1&hide_title=0)
 ## Sobre Mim
