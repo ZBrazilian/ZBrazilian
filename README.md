@@ -1,9 +1,8 @@
 # Hi, i'm José 🙋‍♂️
 #### My Discord account: Brazilian®️#0506
-#### My E-mail adress: 
+#### My E-mail adress: jneto190105@gmail.com
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/ZBrazilian)](https://github.com/ZBrazilian)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/Braziliense__)](https://twitter.com/Braziliense__)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https://mail.google.com/mail/jneto190105@gmail.com)](https://mail.google.com/mail/jneto190105@gmail.com)
 
 ## Most used tecnologies.
 
