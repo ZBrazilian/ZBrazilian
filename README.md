@@ -1,4 +1,4 @@
-# Hi, i'm José 🙋‍♂️
+# Hi, i'm Jose 🙋‍♂️
 #### My Discord account: Brazilian®️#0506
 #### My E-mail adress: jneto190105@gmail.com
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/ZBrazilian)](https://github.com/ZBrazilian)
